@@ -1,5 +1,5 @@
 {
-    "name": "gamu1012/slack-logger",
+    "name": "gamu1012/monolog-slack-handler",
     "type": "project",
     "require": {
         "monolog/monolog": "^1.23",

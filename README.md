@@ -1,4 +1,6 @@
-# monologを利用したSlackBotのサンプル
+# monolog-slack-handler
+
+monologを利用したSlackBotのサンプル
 
 # 環境構築
 ```
